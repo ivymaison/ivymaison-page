@@ -1,5 +1,5 @@
-
-        @media (max-width: 600px){
+<style>
+@media (max-width: 600px){
         .header-simple .headerbar-account {
         height: 75px !important;
         }
@@ -131,3 +131,4 @@
             padding-right: 10px !IMPORTANT;
         padding-left: 10px !IMPORTANT;
         }
+</style>
