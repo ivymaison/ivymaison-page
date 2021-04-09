@@ -1,0 +1,133 @@
+
+        @media (max-width: 600px){
+        .header-simple .headerbar-account {
+        height: 75px !important;
+        }
+        .header-simple .headerbar-account a> img {
+        height: 40px !important;
+        margin-top: 17px !important;
+        }
+        }
+
+        .container {
+        padding-right: 0px !IMPORTANT;
+        padding-left: 0px !IMPORTANT;
+        max-width: 100%;
+        }
+
+        @media (min-width: 1200px){
+        .sell-terms {
+        max-width: 95%;
+        }
+        }
+        @media (min-width: 1440px){
+        .sell-terms {
+        max-width: 95%;
+        }
+        }
+        @media (min-width: 1920px){
+        .sell-terms {
+        max-width: 63%;
+        }
+        }
+
+
+
+
+        @media (min-width: 1200px){
+        .container {
+        max-width: 100%;
+        }
+        }
+        @media (min-width: 1440px){
+        .container  {
+        max-width: 100%;
+        }
+        }
+        @media (min-width: 1920px) {
+        .container {
+        max-width: 100%;
+        }}
+
+        .header-simple .headerbar-account {
+        width: 100%;
+        height: 100px;
+        background: #292929;
+        text-align: center;
+        }
+
+
+
+
+
+
+
+        body div {
+        padding-top: 0px !important;
+        }
+
+
+        #site_path {
+        display: none;
+        }
+
+        body {
+
+        padding-top: 0px !important;
+        }
+
+        had {
+        display: none;
+        }
+
+        .drawer {
+        display: none;
+        }
+
+        .sell-header {
+        margin: 0 auto;
+        width: 100%;
+        text-align: center;
+        }
+        .sell-header h5 {
+        padding: 0;
+        }
+        .sell-header p {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 0 0 20px 0;
+        }
+
+        .sell-terms h5 {
+        font-weight: bold;
+        margin: 30px auto 10px auto;
+        font-size: 20px;
+        }
+
+        .font-weight-bold, b {
+        font-weight: 700!important;
+        }
+
+
+        .sell-terms span {
+        padding-left: 28px;
+        text-decoration: underline;
+        margin-bottom: 10px;
+        display: inline-block;
+        }
+
+        .sell-terms p {
+        margin-bottom: 0px; 
+        margin: 0 0 10px;  
+        }
+
+        .sell-terms a {
+        color: #0056b3 !important;
+        }
+
+
+        .sell-terms  {
+        margin: auto;
+            padding-right: 10px !IMPORTANT;
+        padding-left: 10px !IMPORTANT;
+        }
